@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod sd-rwx-rwx-rwx
+find . -type d -exec chmod a+x {} \;
