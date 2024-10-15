@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown --reference=oleh hello
+chown --reference=oleh hello
