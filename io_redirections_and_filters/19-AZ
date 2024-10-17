@@ -1,2 +1,2 @@
 #!/bin/bash
-tr [A-Zc-e]
+tr 'Ac' 'Ze'
